@@ -1,2 +1,2 @@
-# Trabalho Engenharia de Software - Aplicativo de Carona
-Código fonte do aplicativo de carona criado para o trabalho da matéria de Engenharia de Software da Universidade de Brasília,
+# Trabalho Engenharia de Software - Sistema de Carona
+Código fonte do sistema de carona criado para o trabalho da matéria de Engenharia de Software da Universidade de Brasília,
